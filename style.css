@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(88, 81, 81);
+}
+
+#main-div{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 50%;
+    height: 50vh;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+#Calculate{
+    width: 20%;
+    height: 5vh;
+    background-color: rgb(117, 106, 106);
+    z-index: 10;
+}
+
+#Calculate{
+    position: fixed;
+    top: 45%;
+}
+
+#bitches{
+    color: white;
+}
+
+#name-s{
+    width: 25%;
+    height: 3vh;
+    text-align: center;
+}
+
+#name-s{
+position: fixed;
+top: 40%;
+}
