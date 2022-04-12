@@ -2,7 +2,7 @@ document.getElementById("main-div").style.display = "none"
 
 let pswrd = prompt("Password?")
 
-let pass = "bandrufthagreat"
+let pass = "noahisthebest"
 
 if (pswrd == pass) {
     document.getElementById("main-div").style.display = "flex"
